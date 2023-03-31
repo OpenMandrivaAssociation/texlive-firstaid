@@ -1,6 +1,6 @@
 Name:		texlive-firstaid
 Version:	64892
-Release:	1
+Release:	2
 Summary:	First aid for external LaTeX files and packages that need updating
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/firstaid
