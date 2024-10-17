@@ -3,7 +3,7 @@ Version:	71628
 Release:	1
 Summary:	First aid for external LaTeX files and packages that need updating
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/firstaid
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/firstaid
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/firstaid.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/firstaid.doc.r%{version}.tar.xz
