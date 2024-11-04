@@ -1,5 +1,5 @@
 Name:		texlive-firstaid
-Version:	71628
+Version:	72739
 Release:	1
 Summary:	First aid for external LaTeX files and packages that need updating
 Group:		Publishing
